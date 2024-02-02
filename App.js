@@ -5,3 +5,4 @@ const prueba = () =>{
 
 let patata = new Array("almidon", 24, "fritas");
 
+console.log(patata);
