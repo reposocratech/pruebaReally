@@ -1,4 +1,9 @@
 console.log("hola");
 const prueba = () =>{
-    return true
+  
+    if(err) throw err 
+    else{
+        
+    }
+     return true
 }
