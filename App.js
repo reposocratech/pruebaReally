@@ -1,3 +1,4 @@
+
 console.log("hola");
 const prueba = () =>{
   
@@ -6,4 +7,10 @@ const prueba = () =>{
         
     }
      return true
+}
+
+console.log("hola"," romperlo todo");
+
+const prueba1 = (fgds) =>{
+    return false
 }
