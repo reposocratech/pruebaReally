@@ -1,1 +1,1 @@
-console.log("jefe necesito vacaciones");
+console.log("Quiero descansar el 1 de enero")
