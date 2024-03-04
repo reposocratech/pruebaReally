@@ -1,0 +1,1 @@
+console.log("jefe necesito aumento de salario, llevo 10 años de prácticas");
